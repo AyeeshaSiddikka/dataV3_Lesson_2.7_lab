@@ -1,5 +1,5 @@
 
- /* Lab | SQL Join (Part I)(dataV3_Lesson_2.7_lab) */
+ /*..... Lab | SQL Join (Part I)(dataV3_Lesson_2.7_lab)..... */
  
 USE sakila;
 -- 1. How many films are there for each of the categories in the category table. Use appropriate join to write this query.
